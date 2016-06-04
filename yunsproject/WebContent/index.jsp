@@ -14,6 +14,6 @@
 ㅋㅋㅋ
 =======
 해장하는거 먹어야되는거아냐?
->>>>>>> branch 'master' of https://github.com/yunjaewon/yuntest1.git
+훌럴울룰
 </body>
 </html>
