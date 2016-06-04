@@ -10,6 +10,10 @@
 정신 바짝 차립시다!!!
 오늘 점심때 즐해장~~~
 오늘 점심은 뭘 먹는게 좋지??
+<<<<<<< HEAD
 ㅋㅋㅋ
+=======
+해장하는거 먹어야되는거아냐?
+>>>>>>> branch 'master' of https://github.com/yunjaewon/yuntest1.git
 </body>
 </html>
